@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map GpioExpander
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Octoliner	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+analogRead		KEYWORD2
+analogReadAll		KEYWORD2
+digitalReadAll		KEYWORD2
+mapAnalogToPattern		KEYWORD2
+mapPatternToLine		KEYWORD2
+changeAddr		KEYWORD2
+saveAddr		KEYWORD2
+setSensitivity		KEYWORD2
+mapLine	KEYWORD2
+trackLine		KEYWORD2
+setSensitivity      KEYWORD2
+optimizeSensitivityOnBlack     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
